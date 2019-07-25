@@ -41,7 +41,7 @@ const numberGuessser = () => {
       
       }
     }
-  }
+  };
   //key to quit
   console.log('Enter \'q\' to quit');
 
